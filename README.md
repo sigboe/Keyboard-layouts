@@ -7,4 +7,4 @@ Go to [Input.club](https://input.club) and open up the configurator. Click impor
 
 ## License and credits
 
-I need to give credits to Alexander from input.club for designing the keyboards. The layout variations I make are public domain.
+I need to give credits to Alexander from input.club for designing the keyboards, and the json structure. The layout variations I make are public domain.
