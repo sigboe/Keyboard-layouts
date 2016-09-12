@@ -455,8 +455,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -853,8 +853,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "FUN1",
+                    "label": "\u01921"
+                },
+                "1": {
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -866,12 +870,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUNCTION1",
-                    "label": "\u01921"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -922,8 +922,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "RGUI",
+                    "label": "RGUI"
                 }
             }
         },
